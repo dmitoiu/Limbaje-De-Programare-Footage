@@ -1,4 +1,4 @@
-# Adobe After Effects Project [Darie's Programming Languages Wallpaper](https://www.linkedin.com/in/dmitoiu)!
+# Adobe After Effects Project [Darie's Wallpaper](https://www.linkedin.com/in/dmitoiu)!
 
 ![](Docs/88445674fd944fd1db76140e2e989887.gif)
 
