@@ -22,4 +22,4 @@ into **VirtualDub** as in Adobe After Effects.
 
 **Change the frame rate in VirtualDub: Open VirtualDub > Navigate to Video > Frame Rate > Change Frame Rate.**
 
-e.g Frame Rate value: 30000 for 30 Frames Per Second (FPS).
+e.g Frame Rate value: 30 Frames Per Second (FPS).
