@@ -8,6 +8,7 @@ presented above or modified as required. It supports Adobe After Effects 2022 an
 ## Adobe After Effects Project Dependencies
 
 * [Adobe After Effects](https://adobe.com) (required)
+* [Open Sans Bold Font](https://fonts.google.com/specimen/Open+Sans) (optional)
 * [VirtualDub](https://www.virtualdub.org) (optional)
 * [APNG2GIF](https://github.com/zyzsdy/apng2gif) (optional)
 * [Git](https://git-scm.com) (optional)
